@@ -1,0 +1,3 @@
+### Read Foods
+
+GET http://localhost:3000/api/airports?keyword=pessoa
